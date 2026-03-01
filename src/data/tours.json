@@ -1,0 +1,62 @@
+[
+  {
+    "id": "snorkeling-giftun",
+    "title": "Giftun Island Snorkeling",
+    "description": "Crystal-clear waters and vibrant coral reefs await you at Giftun Island. Swim alongside tropical fish in one of the Red Sea's most iconic spots.",
+    "price": 35,
+    "currency": "USD",
+    "duration": "Full Day",
+    "image": "images/snorkeling.svg",
+    "whatsappNumber": "201234567890"
+  },
+  {
+    "id": "desert-safari",
+    "title": "Desert Safari by Quad Bike",
+    "description": "Race across golden dunes on a powerful quad bike, visit a Bedouin village, and enjoy a stunning desert sunset with traditional tea.",
+    "price": 25,
+    "currency": "USD",
+    "duration": "Half Day",
+    "image": "images/desert-safari.svg",
+    "whatsappNumber": "201234567890"
+  },
+  {
+    "id": "dolphin-trip",
+    "title": "Dolphin House Reef Trip",
+    "description": "Encounter playful dolphins in their natural habitat at Dolphin House. Includes snorkeling stops at pristine reef locations.",
+    "price": 30,
+    "currency": "USD",
+    "duration": "Full Day",
+    "image": "images/dolphin.svg",
+    "whatsappNumber": "201234567890"
+  },
+  {
+    "id": "glass-boat",
+    "title": "Glass Bottom Boat Tour",
+    "description": "See the wonders of the Red Sea without getting wet! Our glass bottom boat reveals a mesmerizing underwater world of corals and marine life.",
+    "price": 20,
+    "currency": "USD",
+    "duration": "3 Hours",
+    "image": "images/glass-boat.svg",
+    "whatsappNumber": "201234567890"
+  },
+  {
+    "id": "parasailing",
+    "title": "Parasailing Adventure",
+    "description": "Soar high above the turquoise waters of Hurghada for breathtaking panoramic views of the coastline and the Red Sea.",
+    "price": 40,
+    "currency": "USD",
+    "duration": "1 Hour",
+    "image": "images/parasailing.svg",
+    "whatsappNumber": "201234567890"
+  },
+  {
+    "id": "luxor-day-trip",
+    "title": "Luxor Day Trip",
+    "description": "Explore the ancient wonders of Luxor including the Valley of the Kings, Karnak Temple, and the Colossi of Memnon on a guided day trip.",
+    "price": 45,
+    "currency": "USD",
+    "duration": "Full Day",
+    "image": "images/luxor.svg",
+    "whatsappNumber": "201234567890"
+  }
+]
