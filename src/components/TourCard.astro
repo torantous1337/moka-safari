@@ -12,7 +12,7 @@ export interface Props {
 const { title, description, price, currency, duration, image, whatsappNumber } = Astro.props;
 
 const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
-const imageSrc = `${baseUrl}/${image}`;
+const imageSrc = `${baseUrl}/${image.replace(/^\/+/, '')}`;
 const whatsappMessage = encodeURIComponent(`Hi! I'm interested in booking the "${title}" tour ($${price} ${currency}, ${duration}). Could you please share more details?`);
 const whatsappLink = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
 ---
