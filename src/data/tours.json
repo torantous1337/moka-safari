@@ -7,7 +7,10 @@
     "currency": "USD",
     "duration": "Full Day",
     "image": "images/snorkeling.svg",
-    "whatsappNumber": "201234567890"
+    "whatsappNumber": "201282718183",
+    "rating": 4.9,
+    "reviewCount": 128,
+    "badge": "Bestseller"
   },
   {
     "id": "desert-safari",
@@ -17,7 +20,10 @@
     "currency": "USD",
     "duration": "Half Day",
     "image": "images/desert-safari.svg",
-    "whatsappNumber": "201234567890"
+    "whatsappNumber": "201282718183",
+    "rating": 4.8,
+    "reviewCount": 95,
+    "badge": "Selling Fast"
   },
   {
     "id": "dolphin-trip",
@@ -27,7 +33,10 @@
     "currency": "USD",
     "duration": "Full Day",
     "image": "images/dolphin.svg",
-    "whatsappNumber": "201234567890"
+    "whatsappNumber": "201282718183",
+    "rating": 4.7,
+    "reviewCount": 84,
+    "badge": "Popular"
   },
   {
     "id": "glass-boat",
@@ -37,7 +46,10 @@
     "currency": "USD",
     "duration": "3 Hours",
     "image": "images/glass-boat.svg",
-    "whatsappNumber": "201234567890"
+    "whatsappNumber": "201282718183",
+    "rating": 4.6,
+    "reviewCount": 67,
+    "badge": ""
   },
   {
     "id": "parasailing",
@@ -47,7 +59,10 @@
     "currency": "USD",
     "duration": "1 Hour",
     "image": "images/parasailing.svg",
-    "whatsappNumber": "201234567890"
+    "whatsappNumber": "201282718183",
+    "rating": 4.9,
+    "reviewCount": 112,
+    "badge": "Top Rated"
   },
   {
     "id": "luxor-day-trip",
@@ -57,6 +72,9 @@
     "currency": "USD",
     "duration": "Full Day",
     "image": "images/luxor.svg",
-    "whatsappNumber": "201234567890"
+    "whatsappNumber": "201282718183",
+    "rating": 4.8,
+    "reviewCount": 156,
+    "badge": "Bestseller"
   }
 ]
