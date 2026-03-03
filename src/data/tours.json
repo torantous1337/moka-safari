@@ -6,10 +6,10 @@
     "price": 35,
     "currency": "USD",
     "duration": "Full Day",
-    "image": "images/snorkeling.svg",
+    "image": "images/snorkling.webp",
     "whatsappNumber": "201282718183",
     "rating": 4.9,
-    "reviewCount": 128,
+    "reviewCount": 1,
     "badge": "Bestseller"
   },
   {
@@ -22,7 +22,7 @@
     "image": "images/desert-safari.svg",
     "whatsappNumber": "201282718183",
     "rating": 4.8,
-    "reviewCount": 95,
+    "reviewCount": 2,
     "badge": "Selling Fast"
   },
   {
@@ -35,7 +35,7 @@
     "image": "images/dolphin.svg",
     "whatsappNumber": "201282718183",
     "rating": 4.7,
-    "reviewCount": 84,
+    "reviewCount": 1,
     "badge": "Popular"
   },
   {
@@ -48,7 +48,7 @@
     "image": "images/glass-boat.svg",
     "whatsappNumber": "201282718183",
     "rating": 4.6,
-    "reviewCount": 67,
+    "reviewCount": 1,
     "badge": ""
   },
   {
@@ -61,7 +61,7 @@
     "image": "images/parasailing.svg",
     "whatsappNumber": "201282718183",
     "rating": 4.9,
-    "reviewCount": 112,
+    "reviewCount": 2,
     "badge": "Top Rated"
   },
   {
@@ -74,7 +74,7 @@
     "image": "images/luxor.svg",
     "whatsappNumber": "201282718183",
     "rating": 4.8,
-    "reviewCount": 156,
+    "reviewCount": 4,
     "badge": "Bestseller"
   }
 ]
